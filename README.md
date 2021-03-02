@@ -1,5 +1,5 @@
 # C-LINQ
-Implement a function called myFilter that does the following:
+Implement a function called myFilter that does the following in C#:
 * Takes a sequence of integers with values from 0 to 100
 * First remove all multiples of 5 greater than 50
 * Then cube each number
